@@ -1,0 +1,24 @@
+Search for any other repositories for organizing extra curricular activities
+
+
+Please look at the code for the 3rd option and give me a detailed
+description of the features.
+
+
+
+Please compare these features to our project. Which would be new?
+
+
+I like it. Let's create issues for these in my repository.
+
+
+
+How many open issues are there on my repository?
+
+Oh no. That's too many for me! Please get the list of issues, review the descriptions and comments, and pick the top 3 most important.
+
+
+#codebase Let's do the first one. Follow these steps:
+1. Checkout a new local branch for making our changes.
+2. Make the changes then confirm with me that they look correct.
+3. Push the changes and create a pull request.
